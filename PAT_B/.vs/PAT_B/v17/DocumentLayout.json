@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375EDD63-6392-4083-ABB5-AECFC9A04B6B}|PAT_B\\PAT_B.vcxproj|D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\pat1013.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{375EDD63-6392-4083-ABB5-AECFC9A04B6B}|PAT_B\\PAT_B.vcxproj|solutionrelative:PAT_B\\pat1013.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375EDD63-6392-4083-ABB5-AECFC9A04B6B}|PAT_B\\PAT_B.vcxproj|D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{375EDD63-6392-4083-ABB5-AECFC9A04B6B}|PAT_B\\PAT_B.vcxproj|solutionrelative:PAT_B\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pat1013.h",
+              "DocumentMoniker": "D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\pat1013.h",
+              "RelativeDocumentMoniker": "PAT_B\\pat1013.h",
+              "ToolTip": "D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\pat1013.h",
+              "RelativeToolTip": "PAT_B\\pat1013.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-17T08:36:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mian.cpp",
+              "DocumentMoniker": "D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\mian.cpp",
+              "RelativeDocumentMoniker": "PAT_B\\mian.cpp",
+              "ToolTip": "D:\\_Code\\MyProject\\PAT_Practise\\PAT_B\\PAT_B\\mian.cpp",
+              "RelativeToolTip": "PAT_B\\mian.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T07:43:32.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

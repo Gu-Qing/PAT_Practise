@@ -1,0 +1,8 @@
+﻿  mian.cpp
+D:\_Code\MyProject\PAT_Practise\PAT_B\PAT_B\pat1012.h(85,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+D:\_Code\MyProject\PAT_Practise\PAT_B\PAT_B\pat1012.h(99,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+  PAT_B.vcxproj -> D:\_Code\MyProject\PAT_Practise\PAT_B\x64\Debug\PAT_B.exe
